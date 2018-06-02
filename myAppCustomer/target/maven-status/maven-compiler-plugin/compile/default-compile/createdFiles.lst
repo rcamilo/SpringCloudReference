@@ -1,0 +1,5 @@
+br/com/rcamilo/customer/client/AccountClient.class
+br/com/rcamilo/customer/api/CustomerController.class
+br/com/rcamilo/customer/CustomerServiceApplication.class
+br/com/rcamilo/customer/model/Account.class
+br/com/rcamilo/customer/model/Customer.class
